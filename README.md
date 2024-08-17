@@ -23,16 +23,20 @@ Hi, I'm Ruiqi, the teaching assistant of CIVL6059. Welcome to choose this mini-p
 
 #### Resources
 
+- Preliminary of robotic kinematic: https://www.coursera.org/learn/robotics1/home/welcome
+
+- Optimization algorithms: particle swarm optimization (https://www.youtube.com/watch?v=JhgDMAm-imI), model predictive control (https://engineering.purdue.edu/~zak/Second_ed/MPC_handout.pdf)
+
+- Certain useful robotic arm sources and simulation codes will updated at this repository.
 
 ## Additional resource
 
 It will be updated in recent.
 
-## Need support
-
-If you have any inquiries, please feel free to send them to jiang_ruiqi AT connect DOT hku DOT hk.
 
 ## Acknowledgements
 
 - This repository is ONLY for the course assessment of students enrolled in CIVL6059. Please notify me if you have any other requests.
+
+- If you have any inquiries, please feel free to send them to jiang_ruiqi AT connect DOT hku DOT hk.
 
