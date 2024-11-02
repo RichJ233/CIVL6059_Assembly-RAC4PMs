@@ -64,11 +64,14 @@ You can find the user **manual** [here](https://manual.coppeliarobotics.com/).
 
 The recommended task is to assemble the simulated construction modules, as [research from ETH](https://ethz.ch/en/news-and-events/eth-news/news/2018/03/spatial-timber-assemblies.html)
 
-[![Video](./Video%20cover.png)](./Video.mp4)
+![Video](./Video.gif)
 
 To projects which use the provided template, the following task design are recommended. Before running the simulation:
+
 ![Before](./Before.png "Before")
+
 The result of assembling the construction modules should be:
+
 ![After](./After.png "After")
 
 The template contains a total of **10** modules, the sequence of installation should be carefully considered.
